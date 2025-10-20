@@ -67,7 +67,7 @@ Ce guide des participant.e.s vous aidera tout au long de ce Hackathon et dans sa
 
 ## Les défis
 
-Au cours de ces deux journées, vous relevez un défi en équipe de 4 à 7 personnes. L'objectif est de proposer un projet qui répondre à un des 4 défis proposés. [Les défis sont présentés dans ce document](lien). 
+Au cours de ces deux journées, vous relevez un défi en équipe de 4 à 7 personnes. L'objectif est de proposer un projet qui répondre à un des 4 défis proposés. [Les défis sont présentés dans ce document](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/blob/main/docs/Pr%C3%A9sentation%20des%20d%C3%A9fis.md). 
 
 - **Défi 1** - Mobilités actives et intermodalité : évaluation d'impact et propositions d'outils
 - **Défi 2** - Outils à destination des entreprises
