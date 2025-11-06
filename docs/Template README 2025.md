@@ -7,7 +7,7 @@ Ce document est un exemple de README pour vos répertoire de code et pour prése
 
 ## Présentation du projet
 
-Ce projet a été développé dans le cadre du [Hackathon Mobilités](lien), organisé par Île-de-France Mobilités les 13 et 14 novembre 2025. Pour en savoir plus, voici le [Guide des participants et participantes](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/).
+Ce projet a été développé dans le cadre du Hackathon Mobilités 2025, organisé par Île-de-France Mobilités les 13 et 14 novembre 2025. Pour en savoir plus, voici le [Guide des participants et participantes](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/).
 
 
 ### Le problème et la proposition de valeur 
@@ -39,6 +39,6 @@ Ce projet a été développé dans le cadre du [Hackathon Mobilités](lien), org
 
 
 ## La licence
-> Ici, il faut décrire la ou les licences du projet. Vous pouvez utiliser la licence [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt), qui est très permissive. Si on souhaite s'assurer que les dérivés du projet restent Open-Source, vous pouvez utiliser la licence [GPLv3](https://github.com/Illumina/licenses/blob/master/gpl-3.0.txt).
+> Ici, il faut décrire la ou les licences du projet. Vous pouvez utiliser la licence [MIT](docs/LICENSE), qui est très permissive. Si on souhaite s'assurer que les dérivés du projet restent Open-Source, vous pouvez utiliser la licence [GPLv3](https://github.com/Illumina/licenses/blob/master/gpl-3.0.txt).
 
 Le code et la documentation de ce projet sont sous licence [MIT](LICENSE).
