@@ -8,6 +8,7 @@ dependencies = [
     "boto3>=1.40.72",
     "duckdb>=1.4.2",
     "folium>=0.20.0",
+    "fastexcel>=0.16.0",
     "geopandas>=1.1.1",
     "huggingface-hub>=1.1.4",
     "jupyter>=1.1.1",
@@ -19,6 +20,7 @@ dependencies = [
     "streamlit>=1.51.0",
     "streamlit-folium>=0.25.3",
     "pyarrow>=21.0.0",
+    "python-dotenv>=1.2.1",
     "scipy>=1.16.3",
     "thefuzz>=0.22.1",
 ]
